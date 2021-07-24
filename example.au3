@@ -2,8 +2,8 @@
 #include "Facebook.au3"
 
 Local $fbFile = "account.fb"
-Local $email = "spamdang09@gmail.com"
-Local $pass = "14256789a"
+Local $email = "xxx.com"
+Local $pass = "xxx"
 
 Local $hFB
 ;~ ; if file isn't exists yet, then log in
